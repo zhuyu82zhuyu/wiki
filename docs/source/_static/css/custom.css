@@ -1,0 +1,20 @@
+div.body{
+    max-width: 100%;
+}
+
+.navbar-inverse{
+    background-color: dimgray
+}
+
+table.cloudplan tbody tr:nth-child(2) {color: red; background-color: yellow}
+
+.wy-table-odd td, .wy-table-striped tr:nth-child(2) td, .rst-content table.cloudplan:not(.field-list) tr:nth-child(2) td{
+    color: red; background-color: yellow; font-weight:bold
+}
+
+.text-large{
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    font-size: x-large;
+    color: red;
+}
